@@ -7,7 +7,7 @@ This folder contains the **Streamlit-based web application** for the Fake Job Po
 ## File Overview
 
 ### `fraud_app.py`
-🎯 *"Real-time job listing fraud detection in a browser-friendly UI."*
+*"Real-time job listing fraud detection in a browser-friendly UI."*
 
 This script runs the entire web app using Streamlit. It includes:
 - A title and interactive input form
