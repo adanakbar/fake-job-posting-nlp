@@ -1,0 +1,29 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Streamlit temp files
+*.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# Data artifacts (optional – if not storing in GitHub)
+data/*.npz
+data/*.pkl
+data/*.csv
+
+# Model files (optional)
+*.pkl
+
+# Environment and config files
+.env
+*.log
